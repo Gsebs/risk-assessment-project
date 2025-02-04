@@ -10,8 +10,7 @@ Stocks/
 __pycache__/
 *.pyc
 
-# Ignore macOS system files
-.DS_Store
-
-# Ignore VS Code settings (optional)
+DS_Store
 .vscode/
+.env
+
