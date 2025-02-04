@@ -1,0 +1,17 @@
+# Ignore data folders and large datasets
+data/
+Data/
+ETFs/
+Stocks/
+*.csv
+*.zip
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore VS Code settings (optional)
+.vscode/
